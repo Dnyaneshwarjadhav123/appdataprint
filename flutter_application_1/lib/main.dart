@@ -14,6 +14,7 @@ class HomePage extends StatelessWidget {
   @override
   void initState() {
     getdata();
+    //
   }
 
   getdata() async {
